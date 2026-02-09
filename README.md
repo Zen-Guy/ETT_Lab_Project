@@ -22,4 +22,4 @@ The project aims to analyze SaaS subscription data to identify trends, detect an
 4. Which KPI shows the most volatility?
 5. How does current performance compare to historical averages?
 6. [Optional question based on dataset]
-7.
+
