@@ -48,7 +48,9 @@ All datasets are cleaned, validated, and merged into:
 
 ---
 ## Dashboard Development
+
 Built an interactive Power BI dashboard visualizing key SaaS KPIs including revenue trends, churn patterns, usage metrics, and support activity. Implemented dynamic filtering for enhanced data exploration.
+
 ---
 
 ## System Workflow
